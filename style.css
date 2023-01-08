@@ -1,0 +1,15 @@
+body {
+  font-family: "Red Hat Display", sans-serif;
+  background-image: url(images/pattern-background-desktop.svg);
+  background-position: 0 0;
+  background-size: contain;
+  background-color: hsl(225, 100%, 94%);
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+
+
